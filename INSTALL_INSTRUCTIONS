@@ -1,0 +1,4 @@
+sudo apt-get build-dep python-pygame
+sudo apt-get install mercurial  #to get hg
+sudo apt-get install libfreetype6-dev
+LC_ALL=C pip install hg+http://bitbucket.org/pygame/pygame
