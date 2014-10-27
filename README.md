@@ -1,7 +1,12 @@
 chromesthesia
 =============
 
-proof-of-concept visual based sound editor
+Chromesthesia is a proof-of-concept visual based sound editor.
+
+For Any OS, download&install python and dependancies and run.
+
+For Windows users, run /dist/chromesthesia.exe
+
 
 Press "C" to clear the screen.
 
